@@ -1,9 +1,5 @@
-# Analisis Pada Data Logistik & Pengiriman
-
-Project ini berisi analisis data pengiriman logistik menggunakan SQL (SQLite) di Google Colab. Dataset berisi 1.500 data pengiriman yang mencakup informasi supplier, gudang, tujuan, biaya, dan status pengantaran.
-
 # Tentang Dataset
-Dataset publik dari Kaggle berisi 1.500 baris data pengiriman logistik dengan 24 kolom, mencakup informasi supplier, rute, moda transportasi, komponen biaya (bahan bakar, tenaga kerja, maintenance, tol), pendapatan, profit, serta performa pengantaran (waktu tempuh dan status keterlambatan).
+Dataset berisi 1.500 baris data pengiriman logistik dengan 24 kolom, mencakup informasi supplier, rute, moda transportasi, komponen biaya (bahan bakar, tenaga kerja, maintenance, tol), pendapatan, profit, serta performa pengantaran (waktu tempuh dan status keterlambatan).
 
 # Tools
 - SQLite (via Python `sqlite3`)
@@ -11,7 +7,6 @@ Dataset publik dari Kaggle berisi 1.500 baris data pengiriman logistik dengan 24
 - Pandas (untuk menampilkan hasil query)
 
 # Isi Analisis
-File: `logistik_analysis.ipynb`
 
 | No | Query | Fokus Analisis |
 |----|-------|-----------------|
