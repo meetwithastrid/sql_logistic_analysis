@@ -1,4 +1,4 @@
-# Analisis Data Logistik & Pengiriman
+# Analisis Pada Data Logistik & Pengiriman
 
 Project ini berisi analisis data pengiriman logistik menggunakan SQL (SQLite) di Google Colab. Dataset berisi 1.500 data pengiriman yang mencakup informasi supplier, gudang, tujuan, biaya, dan status pengantaran.
 
